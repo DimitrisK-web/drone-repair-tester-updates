@@ -1,5 +1,5 @@
 {
   "Version": "1.0.1",
-  "DownloadUrl": "https://github.com/DimitrisK-web/drone-repair-tester-updates/releases/download/v1.0.1/PlaisioServiceDiagnostic.exe",
+  "DownloadUrl": "https://github.com/DimitrisK-web/drone-repair-tester-updates/releases/download/v1.0.2/PlaisioServiceDiagnostic.exe",
   "ReleaseNotes": "Added themes support and testing OTA update function"
 }
