@@ -1,0 +1,5 @@
+{
+  "Version": "1.0.1",
+  "DownloadUrl": "https://github.com/DimitrisK-web/drone-repair-tester-updates/releases/download/v1.0.1/PlaisioServiceDiagnostic.exe",
+  "ReleaseNotes": "Fixed Admin settings UI cutoff, wrapped configuration in a ScrollViewer."
+}
