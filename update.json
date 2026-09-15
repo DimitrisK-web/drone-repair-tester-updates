@@ -1,5 +1,5 @@
 {
-  "Version": "1.1.1",
-  "DownloadUrl": "https://github.com/DimitrisK-web/drone-repair-tester-updates/releases/download/v1.1.1/PlaisioServiceDiagnostic.exe",
-  "ReleaseNotes": "Fixed touch screen test, added option for defects and test fail"
+  "Version": "1.1.2",
+  "DownloadUrl": "https://github.com/DimitrisK-web/drone-repair-tester-updates/releases/download/v1.1.2/PlaisioServiceDiagnostic.exe",
+  "ReleaseNotes": "Added Initial Test (Pre-Repair) and Normal / Final Test (Post-Repair) diagnostic modes, automatic initial report matching and repair verification comparison in live preview and PDF reports."
 }
