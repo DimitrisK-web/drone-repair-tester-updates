@@ -1,5 +1,5 @@
 {
-  "Version": "1.1.2",
-  "DownloadUrl": "https://github.com/DimitrisK-web/drone-repair-tester-updates/releases/download/v1.1.2/PlaisioServiceDiagnostic.exe",
-  "ReleaseNotes": "Added Initial Test (Pre-Repair) and Normal / Final Test (Post-Repair) diagnostic modes, automatic initial report matching and repair verification comparison in live preview and PDF reports."
+  "Version": "1.1.3",
+  "DownloadUrl": "https://github.com/DimitrisK-web/drone-repair-tester-updates/releases/download/v1.1.3/PlaisioServiceDiagnostic.exe",
+  "ReleaseNotes": "Removed color styling from test results on the PDF report, removed the Repair Verification comparison summary box from the PDF report, and added manual fail option (button & checkbox) for the keyboard test."
 }
