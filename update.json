@@ -1,5 +1,5 @@
 {
-  "Version": "1.1.3",
-  "DownloadUrl": "https://github.com/DimitrisK-web/drone-repair-tester-updates/releases/download/v1.1.3/PlaisioServiceDiagnostic.exe",
-  "ReleaseNotes": "Removed color styling from test results on the PDF report, removed the Repair Verification comparison summary box from the PDF report, and added manual fail option (button & checkbox) for the keyboard test."
+  "Version": "1.2.0",
+  "DownloadUrl": "https://github.com/DimitrisK-web/drone-repair-tester-updates/releases/download/v1.2.0/PlaisioServiceDiagnostic.exe",
+  "ReleaseNotes": "Modernized UI with responsive multi-column layouts, improved default display dimensions (1180x780), modern deep slate and clean light themes, custom slim scrollbars, progress bar, device info copy, and keyboard shortcuts."
 }
