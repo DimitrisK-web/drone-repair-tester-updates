@@ -1,5 +1,5 @@
 {
-  "Version": "1.2.0",
-  "DownloadUrl": "https://github.com/DimitrisK-web/drone-repair-tester-updates/releases/download/v1.2.0/PlaisioServiceDiagnostic.exe",
-  "ReleaseNotes": "Modernized UI with responsive multi-column layouts, improved default display dimensions (1180x780), modern deep slate and clean light themes, custom slim scrollbars, progress bar, device info copy, and keyboard shortcuts."
+  "Version": "1.2.1",
+  "DownloadUrl": "https://github.com/DimitrisK-web/drone-repair-tester-updates/releases/download/v1.2.1/PlaisioServiceDiagnostic.exe",
+  "ReleaseNotes": "Added Camera/Webcam fail inspection button, defect validation, and technician failure status reporting."
 }
